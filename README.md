@@ -5,9 +5,9 @@ Various concepts and techniques are utilized (including Principal Component Anal
 
 <br>Total of 6 estimators are gridsearched in Regression:
   <br><blockquote> Table of Contents:
-    <br><blockquote>1. Data Overwiew
-    <br><blockquote>2. Data Cleaning
-    <br><blockquote>3. Features' statistical significance
+    <br>1. Data Overwiew
+    <br>2. Data Cleaning
+    <br>3. Features' statistical significance
     4. Distributions
     5. Correlations
     6. Modelling
