@@ -13,8 +13,7 @@ Various concepts and techniques are utilized (including Principal Component Anal
     <br>6. Modelling
     <br>7. Model Evaluation
   <br>Data source: https://www.kaggle.com/datasets/juliazubko/25-unlabeled-features-target
-  
- 
+  </blockquote> 
 Total of 5 estimators are gridsearched in Classification: 
  <br><blockquote>Table of Contents:
    <br>1. Data Overwiew
