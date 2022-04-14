@@ -1,2 +1,2 @@
 # DataScience
-Python (NumPy, Pandas, Matplotlib, Seaborn. SciPy, scikit-learn) 
+Python (NumPy, Pandas, Matplotlib, Seaborn. SciPy, Scikit-learn) 
