@@ -4,8 +4,8 @@ Python (NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn)
 Various concepts and techniques are utilized (including Principal Component Analysis, Pipelines and GridSearchCV) in effort to find the best suited models for two datasets, regarding most common tasks: Regression and Classification.<br>
 
 <br>Total of 6 estimators are gridsearched in Regression:
-  <br>Table of Contents:
-    <br>1. Data Overwiew
+  <br>>Table of Contents:
+    <br>>>1. Data Overwiew
     <br>2. Data Cleaning
     <br>3. Features' statistical significance
     4. Distributions
