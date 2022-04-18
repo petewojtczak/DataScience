@@ -27,4 +27,4 @@ Various concepts and techniques are utilized (including Principal Component Anal
    <br>9. Best model
   <br>Data source: https://www.kaggle.com/datasets/alimohammedbakhiet/anonymous-data
   </blockquote>
-  <br>Also, flowcharts of four clustering algos as well as one classification tree CHAID have been uploaded. These were created 14y ago during my engagement in CRM project back at the University.   
+  <br>Additionally, flowcharts of four clustering algos as well as one classification tree CHAID have been uploaded. These were created 14y ago during my engagement in CRM project back at the University.   
