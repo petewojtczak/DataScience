@@ -26,3 +26,5 @@ Various concepts and techniques are utilized (including Principal Component Anal
    <br>8. Threshold tuning
    <br>9. Best model
   <br>Data source: https://www.kaggle.com/datasets/alimohammedbakhiet/anonymous-data
+  </blockquote>
+  <br>Also, flowcharts of 4 clustering algos as well as 1 classification tree CHAID have been uploaded. These were created 14y ago and are a result of my engagement in CRM project back at the University.   
